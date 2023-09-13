@@ -10,6 +10,7 @@
 	- git remote add origin https://github.com/elsayedseleim/ITI_Test_Git.git // link the local with master
 	- git remote # to check the lists or remotes (only one origin) 
 	- git remote -v # to see the origin point to what?
-	- git push origin main #push the changes to remote will require the user and password for github
+	- git push origin master #push the changes to remote will require the user and password for github
+	- git pull origin master #pull the changes from remote to the local
 
 

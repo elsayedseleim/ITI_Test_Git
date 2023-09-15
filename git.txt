@@ -5,7 +5,7 @@
 5- git add --all # all files 
 6- git commit -m "short brief Comment" # add the files to the master
 7- git log # to see what is commit or not 
-8- Upload from Local To Remote in GitHub
+8- Upload from Local To Remote in GitHub and pull from remote to local
 	- create the repo in github with the same name without createing readme files
 	- git remote add origin https://github.com/elsayedseleim/ITI_Test_Git.git // link the local with master
 	- git remote # to check the lists or remotes (only one origin) 
